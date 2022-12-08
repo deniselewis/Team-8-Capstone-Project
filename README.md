@@ -21,6 +21,9 @@ This is a website to allow users to create and update their todo task cards. The
 
 <img width="1644" alt="Screen Shot 2022-12-08 at 6 32 46 PM" src="https://user-images.githubusercontent.com/47063822/206589008-8ade68c5-fbda-4897-8bc7-0025151c72c8.png">
 
+## Technologies
+
+HTML, CSS, Bootstrap, Javascript
 
 ## Installation
 
