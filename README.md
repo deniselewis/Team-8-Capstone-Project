@@ -1,1 +1,50 @@
-# Team-8-Capstone-Project
+
+# ToDo List
+
+
+
+Website to create a list of To-Do Task Cards!
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Contribute](#contribute)
+- [Contact Me](#questions)
+- [License](#license)
+
+## Description
+
+This is a website to allow users to create and update their todo task cards. The user is able to set the status of their task card, and once they are finish their card, they can delete it and remove the card freely from their dashboard
+
+## Installation
+
+git clone the repo by clicking the Code button on github and copying the repo link. 'git clone' and paste the link in your terminal, and 'cd' into the repo name. Once you are in the directory, use the 'code .' to open the project in your preferred editor.
+
+## Usage
+
+All the fields are requried in order to successfully populate their task cards
+
+## Tests
+
+no commands for testing
+
+## Contribute
+
+fork the repository to contribute freely
+
+## Questions?
+
+Please feel free to contact me with any questions via email or LinkedIn.
+
+- Github: [deniselewis](https://github.com/deniselewis)
+- LinkedIn: [Denise Lewis](https://www.linkedin.com/in/deniselewis12/)
+- Email: [denisepl28@gmail.com](mailto:denisepl28@gmail.com)
+
+## License
+
+
+
+&copy; 2022 Denise Lewis
