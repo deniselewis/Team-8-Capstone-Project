@@ -3,7 +3,7 @@
 
 
 
-Website to create a list of To-Do Task Cards!
+Website made with my team to create a list of To-Do Task Cards!
 
 ## Table of Contents
 
