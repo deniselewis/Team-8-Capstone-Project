@@ -5,6 +5,11 @@
 
 Website made with my team to create a list of To-Do Task Cards!
 
+### Collaborators
+
+Michele Baldwin, Aubrie McClendon, Felipe Bajaras Rangel
+
+
 ## Table of Contents
 
 - [Description](#description)
