@@ -53,7 +53,6 @@ Please feel free to contact me with any questions via email or LinkedIn.
 - Github: [deniselewis](https://github.com/deniselewis)
 - LinkedIn: [Denise Lewis](https://www.linkedin.com/in/deniselewis12/)
 - Email: [denisepl28@gmail.com](mailto:denisepl28@gmail.com)
-![Uploading Screen Shot 2022-12-08 at 6.32.46 PM.png…]()
 
 ## License
 
